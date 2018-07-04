@@ -1,0 +1,24 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "Little to do App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanth8910/nodeToDoApp.git"
+  },
+  "author": "Prasanth Balendran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanth8910/nodeToDoApp/issues"
+  },
+  "homepage": "https://github.com/prasanth8910/nodeToDoApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
